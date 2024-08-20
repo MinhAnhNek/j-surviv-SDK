@@ -11,7 +11,7 @@ import java.util.List;
 
 public class Main {
     private static final String SERVER_URL = "https://cf-server.jsclub.dev";
-    private static final String GAME_ID = "181430";
+    private static final String GAME_ID = "112672"; // sua game id theo game
     private static final String PLAYER_NAME = "player1";
 
     private static long lastCallTime = 0;  // External variable to track time across calls
